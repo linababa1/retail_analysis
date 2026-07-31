@@ -1,5 +1,5 @@
 /* Sales Performance Analysis
-Question: What is the top 10 total sales amount for each product category in the sales_data table? */
+Question: What are the top 10 total sales amounts for each product category in the sales_data table? */
 
 SELECT 
     product_id,
