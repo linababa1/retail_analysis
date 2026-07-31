@@ -127,7 +127,7 @@ SELECT
     country,
     city,
     state,
-    sum(sales) AS total_sales
+    sum(sales) AS orders
 FROM sales_data
 GROUP BY 
     country, city, state
